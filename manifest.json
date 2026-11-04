@@ -1,0 +1,25 @@
+{
+  "name": "Gelagen",
+  "short_name": "Gelagen",
+  "description": "Order Gelagen — the official Korean-biotech collagen gummy supplement for radiant skin, stronger hair, and healthy nails.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2c1f0e",
+  "theme_color": "#3d6b4f",
+  "icons": [
+    {
+      "src": "/images/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["health", "lifestyle", "beauty"]
+}

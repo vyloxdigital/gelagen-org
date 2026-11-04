@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://gelagen-org.vercel.app/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://gelagen-org.vercel.app/images/gelagen-6-bottle.webp</image:loc>
+      <image:title>Gelagen collagen gummy supplement — 6 bottle best value package</image:title>
+      <image:caption>Order Gelagen 6-bottle package for maximum savings and all 6 bonus guides</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gelagen-org.vercel.app/images/gelagen-3-bottle.webp</image:loc>
+      <image:title>Gelagen collagen gummy supplement — 3 bottle most popular package</image:title>
+      <image:caption>Buy Gelagen 3-bottle package — most popular Gelagen order on sale with free US shipping</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gelagen-org.vercel.app/images/gelagen-2-bottle.webp</image:loc>
+      <image:title>Gelagen collagen gummy supplement — 2 bottle starter package</image:title>
+      <image:caption>Gelagen 2-bottle starter pack — official sale price with 60-day guarantee</image:caption>
+    </image:image>
+  </url>
+</urlset>
